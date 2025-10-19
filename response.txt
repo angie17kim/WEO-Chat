@@ -1,0 +1,5 @@
+{
+    "answer": "10.912",
+    "reference": "In the Japan section for 2050 under the Announced Pledges Scenario, the data lists \"Total\": 10.912.",
+    "reasoning": "The question asks for Japan's Total energy in 2050 under the APS scenario. APS corresponds to the \"Announced Pledges Scenario\". Looking up Japan → 2050 → Announced Pledges Scenario, the Total value is 10.912."
+}

@@ -1,0 +1,802 @@
+{
+    "World": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 43.155,
+                "Total": 536.333
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 74.381,
+                "Total": 628.998
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 77.934,
+                "Total": 642.146
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 120.062,
+                "Total": 676.466
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 139.519,
+                "Total": 640.849
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 152.936,
+                "Total": 681.624
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 196.542,
+                "Total": 623.955
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 240.591,
+                "Total": 721.944
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 336.251,
+                "Total": 634.735
+            }
+        }
+    },
+    "North America": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 8.828,
+                "Total": 112.579
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 12.674,
+                "Total": 113.699
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 12.637,
+                "Total": 112.336
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 17.901,
+                "Total": 108.801
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 24.152,
+                "Total": 103.67
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 22.133,
+                "Total": 103.608
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 34.627,
+                "Total": 96.259
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 33.346,
+                "Total": 99.272
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 51.942,
+                "Total": 89.137
+            }
+        }
+    },
+    "United States": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 6.627,
+                "Total": 94.061
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 10.004,
+                "Total": 93.39
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 10.086,
+                "Total": 91.879
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 14.408,
+                "Total": 88.183
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 19.932,
+                "Total": 84.701
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 18.214,
+                "Total": 83.013
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 29.383,
+                "Total": 78.462
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 28.073,
+                "Total": 78.021
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 43.792,
+                "Total": 72.869
+            }
+        }
+    },
+    "Central and South America": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 7.66,
+                "Total": 26.632
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 9.859,
+                "Total": 29.251
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 10.322,
+                "Total": 29.793
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 12.72,
+                "Total": 32.66
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 14.498,
+                "Total": 32.336
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 14.383,
+                "Total": 35.155
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 18.174,
+                "Total": 34.74
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 21.632,
+                "Total": 43.5
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 29.22,
+                "Total": 39.992
+            }
+        }
+    },
+    "Brazil": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 5.621,
+                "Total": 12.135
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 6.944,
+                "Total": 13.892
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 7.355,
+                "Total": 14.378
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 8.986,
+                "Total": 16.138
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 9.946,
+                "Total": 16.227
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 9.804,
+                "Total": 17.246
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 11.897,
+                "Total": 17.797
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 13.449,
+                "Total": 21.25
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 16.651,
+                "Total": 20.421
+            }
+        }
+    },
+    "Europe": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 9.899,
+                "Total": 88.973
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 14.433,
+                "Total": 76.996
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 15.084,
+                "Total": 74.35
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 21.507,
+                "Total": 73.024
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 24.375,
+                "Total": 70.403
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 25.538,
+                "Total": 70.225
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 30.297,
+                "Total": 65.072
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 31.944,
+                "Total": 65.47
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 37.822,
+                "Total": 59.291
+            }
+        }
+    },
+    "European Union": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 7.754,
+                "Total": 64.174
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 10.667,
+                "Total": 55.431
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 11.217,
+                "Total": 52.969
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 16.024,
+                "Total": 50.924
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 18.038,
+                "Total": 49.21
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 19.113,
+                "Total": 48.012
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 22.349,
+                "Total": 44.939
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 23.616,
+                "Total": 42.833
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 26.924,
+                "Total": 40.161
+            }
+        }
+    },
+    "Africa": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 3.611,
+                "Total": 25.407
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 5.649,
+                "Total": 33.525
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 5.832,
+                "Total": 33.938
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 7.68,
+                "Total": 36.926
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 6.902,
+                "Total": 30.764
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 9.486,
+                "Total": 39.781
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 10.227,
+                "Total": 32.921
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 15.756,
+                "Total": 51.665
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 25.616,
+                "Total": 46.926
+            }
+        }
+    },
+    "Middle East": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 0.105,
+                "Total": 26.145
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 0.212,
+                "Total": 35.031
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 0.266,
+                "Total": 35.62
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 1.341,
+                "Total": 40.639
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 1.875,
+                "Total": 39.605
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 2.375,
+                "Total": 44.283
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 5.075,
+                "Total": 44.148
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 6.442,
+                "Total": 55.937
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 15.444,
+                "Total": 54.13
+            }
+        }
+    },
+    "Eurasia": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 0.978,
+                "Total": 35.763
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 1.167,
+                "Total": 42.197
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 1.191,
+                "Total": 42.724
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 1.45,
+                "Total": 43.076
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 1.759,
+                "Total": 40.505
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 1.696,
+                "Total": 43.272
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 2.436,
+                "Total": 39.096
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 2.45,
+                "Total": 44.11
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 4.444,
+                "Total": 37.531
+            }
+        }
+    },
+    "Russia": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 0.741,
+                "Total": 29.091
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 0.9,
+                "Total": 33.938
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 0.917,
+                "Total": 34.382
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 1.063,
+                "Total": 33.987
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 1.235,
+                "Total": 32.194
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 1.21,
+                "Total": 33.664
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 1.533,
+                "Total": 30.81
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 1.69,
+                "Total": 32.683
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 2.318,
+                "Total": 28.352
+            }
+        }
+    },
+    "Asia Pacific": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 12.076,
+                "Total": 205.871
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 30.361,
+                "Total": 283.087
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 32.576,
+                "Total": 296.996
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 57.11,
+                "Total": 321.85
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 64.775,
+                "Total": 306.875
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 76.569,
+                "Total": 324.545
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 93.638,
+                "Total": 296.015
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 126.315,
+                "Total": 337.984
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 167.801,
+                "Total": 293.83
+            }
+        }
+    },
+    "China": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 4.565,
+                "Total": 107.321
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 14.966,
+                "Total": 160.133
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 16.146,
+                "Total": 170.412
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 31.822,
+                "Total": 178.012
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 35.312,
+                "Total": 171.058
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 43.506,
+                "Total": 171.414
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 50.882,
+                "Total": 157.848
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 67.949,
+                "Total": 161.979
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 80.408,
+                "Total": 141.16
+            }
+        }
+    },
+    "India": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 2.72,
+                "Total": 27.696
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 6.266,
+                "Total": 42.724
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 6.631,
+                "Total": 45.353
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 11.018,
+                "Total": 55.785
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 11.423,
+                "Total": 50.586
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 14.694,
+                "Total": 60.7
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 16.545,
+                "Total": 51.962
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 26.974,
+                "Total": 70.54
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 35.673,
+                "Total": 61.906
+            }
+        }
+    },
+    "Japan": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 0.77,
+                "Total": 20.921
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 1.218,
+                "Total": 16.432
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 1.378,
+                "Total": 16.424
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 2.017,
+                "Total": 15.032
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 2.324,
+                "Total": 14.722
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 2.538,
+                "Total": 13.995
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 3.263,
+                "Total": 13.415
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 3.459,
+                "Total": 12.316
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 4.811,
+                "Total": 10.912
+            }
+        }
+    },
+    "Southeast Asia": {
+        "2010": {
+            "Stated Policies Scenario": {
+                "Renewables": 2.76,
+                "Total": 21.462
+            }
+        },
+        "2022": {
+            "Stated Policies Scenario": {
+                "Renewables": 5.814,
+                "Total": 31.47
+            }
+        },
+        "2023": {
+            "Stated Policies Scenario": {
+                "Renewables": 6.209,
+                "Total": 32.996
+            }
+        },
+        "2030": {
+            "Stated Policies Scenario": {
+                "Renewables": 8.216,
+                "Total": 39.555
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 10.413,
+                "Total": 38.872
+            }
+        },
+        "2035": {
+            "Stated Policies Scenario": {
+                "Renewables": 10.282,
+                "Total": 43.802
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 14.818,
+                "Total": 40.608
+            }
+        },
+        "2050": {
+            "Stated Policies Scenario": {
+                "Renewables": 17.629,
+                "Total": 54.225
+            },
+            "Announced Pledges Scenario": {
+                "Renewables": 29.526,
+                "Total": 45.163
+            }
+        }
+    }
+}

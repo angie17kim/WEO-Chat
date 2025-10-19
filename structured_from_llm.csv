@@ -1,0 +1,289 @@
+Product,Region,Year,Scenario,Value
+Renewables,World,2010,Stated Policies Scenario,43.155
+Renewables,World,2022,Stated Policies Scenario,74.381
+Renewables,World,2023,Stated Policies Scenario,77.934
+Renewables,World,2030,Stated Policies Scenario,120.062
+Renewables,World,2035,Stated Policies Scenario,152.936
+Renewables,World,2050,Stated Policies Scenario,240.591
+Renewables,World,2030,Announced Pledges Scenario,139.519
+Renewables,World,2035,Announced Pledges Scenario,196.542
+Renewables,World,2050,Announced Pledges Scenario,336.251
+Renewables,North America,2010,Stated Policies Scenario,8.828
+Renewables,North America,2022,Stated Policies Scenario,12.674
+Renewables,North America,2023,Stated Policies Scenario,12.637
+Renewables,North America,2030,Stated Policies Scenario,17.901
+Renewables,North America,2035,Stated Policies Scenario,22.133
+Renewables,North America,2050,Stated Policies Scenario,33.346
+Renewables,North America,2030,Announced Pledges Scenario,24.152
+Renewables,North America,2035,Announced Pledges Scenario,34.627
+Renewables,North America,2050,Announced Pledges Scenario,51.942
+Renewables,United States,2010,Stated Policies Scenario,6.627
+Renewables,United States,2022,Stated Policies Scenario,10.004
+Renewables,United States,2023,Stated Policies Scenario,10.086
+Renewables,United States,2030,Stated Policies Scenario,14.408
+Renewables,United States,2035,Stated Policies Scenario,18.214
+Renewables,United States,2050,Stated Policies Scenario,28.073
+Renewables,United States,2030,Announced Pledges Scenario,19.932
+Renewables,United States,2035,Announced Pledges Scenario,29.383
+Renewables,United States,2050,Announced Pledges Scenario,43.792
+Renewables,Central and South America,2010,Stated Policies Scenario,7.66
+Renewables,Central and South America,2022,Stated Policies Scenario,9.859
+Renewables,Central and South America,2023,Stated Policies Scenario,10.322
+Renewables,Central and South America,2030,Stated Policies Scenario,12.72
+Renewables,Central and South America,2035,Stated Policies Scenario,14.383
+Renewables,Central and South America,2050,Stated Policies Scenario,21.632
+Renewables,Central and South America,2030,Announced Pledges Scenario,14.498
+Renewables,Central and South America,2035,Announced Pledges Scenario,18.174
+Renewables,Central and South America,2050,Announced Pledges Scenario,29.22
+Renewables,Brazil,2010,Stated Policies Scenario,5.621
+Renewables,Brazil,2022,Stated Policies Scenario,6.944
+Renewables,Brazil,2023,Stated Policies Scenario,7.355
+Renewables,Brazil,2030,Stated Policies Scenario,8.986
+Renewables,Brazil,2035,Stated Policies Scenario,9.804
+Renewables,Brazil,2050,Stated Policies Scenario,13.449
+Renewables,Brazil,2030,Announced Pledges Scenario,9.946
+Renewables,Brazil,2035,Announced Pledges Scenario,11.897
+Renewables,Brazil,2050,Announced Pledges Scenario,16.651
+Renewables,Europe,2010,Stated Policies Scenario,9.899
+Renewables,Europe,2022,Stated Policies Scenario,14.433
+Renewables,Europe,2023,Stated Policies Scenario,15.084
+Renewables,Europe,2030,Stated Policies Scenario,21.507
+Renewables,Europe,2035,Stated Policies Scenario,25.538
+Renewables,Europe,2050,Stated Policies Scenario,31.944
+Renewables,Europe,2030,Announced Pledges Scenario,24.375
+Renewables,Europe,2035,Announced Pledges Scenario,30.297
+Renewables,Europe,2050,Announced Pledges Scenario,37.822
+Renewables,European Union,2010,Stated Policies Scenario,7.754
+Renewables,European Union,2022,Stated Policies Scenario,10.667
+Renewables,European Union,2023,Stated Policies Scenario,11.217
+Renewables,European Union,2030,Stated Policies Scenario,16.024
+Renewables,European Union,2035,Stated Policies Scenario,19.113
+Renewables,European Union,2050,Stated Policies Scenario,23.616
+Renewables,European Union,2030,Announced Pledges Scenario,18.038
+Renewables,European Union,2035,Announced Pledges Scenario,22.349
+Renewables,European Union,2050,Announced Pledges Scenario,26.924
+Renewables,Africa,2010,Stated Policies Scenario,3.611
+Renewables,Africa,2022,Stated Policies Scenario,5.649
+Renewables,Africa,2023,Stated Policies Scenario,5.832
+Renewables,Africa,2030,Stated Policies Scenario,7.68
+Renewables,Africa,2035,Stated Policies Scenario,9.486
+Renewables,Africa,2050,Stated Policies Scenario,15.756
+Renewables,Africa,2030,Announced Pledges Scenario,6.902
+Renewables,Africa,2035,Announced Pledges Scenario,10.227
+Renewables,Africa,2050,Announced Pledges Scenario,25.616
+Renewables,Middle East,2010,Stated Policies Scenario,0.105
+Renewables,Middle East,2022,Stated Policies Scenario,0.212
+Renewables,Middle East,2023,Stated Policies Scenario,0.266
+Renewables,Middle East,2030,Stated Policies Scenario,1.341
+Renewables,Middle East,2035,Stated Policies Scenario,2.375
+Renewables,Middle East,2050,Stated Policies Scenario,6.442
+Renewables,Middle East,2030,Announced Pledges Scenario,1.875
+Renewables,Middle East,2035,Announced Pledges Scenario,5.075
+Renewables,Middle East,2050,Announced Pledges Scenario,15.444
+Renewables,Eurasia,2010,Stated Policies Scenario,0.978
+Renewables,Eurasia,2022,Stated Policies Scenario,1.167
+Renewables,Eurasia,2023,Stated Policies Scenario,1.191
+Renewables,Eurasia,2030,Stated Policies Scenario,1.45
+Renewables,Eurasia,2035,Stated Policies Scenario,1.696
+Renewables,Eurasia,2050,Stated Policies Scenario,2.45
+Renewables,Eurasia,2030,Announced Pledges Scenario,1.759
+Renewables,Eurasia,2035,Announced Pledges Scenario,2.436
+Renewables,Eurasia,2050,Announced Pledges Scenario,4.444
+Renewables,Russia,2010,Stated Policies Scenario,0.741
+Renewables,Russia,2022,Stated Policies Scenario,0.9
+Renewables,Russia,2023,Stated Policies Scenario,0.917
+Renewables,Russia,2030,Stated Policies Scenario,1.063
+Renewables,Russia,2035,Stated Policies Scenario,1.21
+Renewables,Russia,2050,Stated Policies Scenario,1.69
+Renewables,Russia,2030,Announced Pledges Scenario,1.235
+Renewables,Russia,2035,Announced Pledges Scenario,1.533
+Renewables,Russia,2050,Announced Pledges Scenario,2.318
+Renewables,Asia Pacific,2010,Stated Policies Scenario,12.076
+Renewables,Asia Pacific,2022,Stated Policies Scenario,30.361
+Renewables,Asia Pacific,2023,Stated Policies Scenario,32.576
+Renewables,Asia Pacific,2030,Stated Policies Scenario,57.11
+Renewables,Asia Pacific,2035,Stated Policies Scenario,76.569
+Renewables,Asia Pacific,2050,Stated Policies Scenario,126.315
+Renewables,Asia Pacific,2030,Announced Pledges Scenario,64.775
+Renewables,Asia Pacific,2035,Announced Pledges Scenario,93.638
+Renewables,Asia Pacific,2050,Announced Pledges Scenario,167.801
+Renewables,China,2010,Stated Policies Scenario,4.565
+Renewables,China,2022,Stated Policies Scenario,14.966
+Renewables,China,2023,Stated Policies Scenario,16.146
+Renewables,China,2030,Stated Policies Scenario,31.822
+Renewables,China,2035,Stated Policies Scenario,43.506
+Renewables,China,2050,Stated Policies Scenario,67.949
+Renewables,China,2030,Announced Pledges Scenario,35.312
+Renewables,China,2035,Announced Pledges Scenario,50.882
+Renewables,China,2050,Announced Pledges Scenario,80.408
+Renewables,India,2010,Stated Policies Scenario,2.72
+Renewables,India,2022,Stated Policies Scenario,6.266
+Renewables,India,2023,Stated Policies Scenario,6.631
+Renewables,India,2030,Stated Policies Scenario,11.018
+Renewables,India,2035,Stated Policies Scenario,14.694
+Renewables,India,2050,Stated Policies Scenario,26.974
+Renewables,India,2030,Announced Pledges Scenario,11.423
+Renewables,India,2035,Announced Pledges Scenario,16.545
+Renewables,India,2050,Announced Pledges Scenario,35.673
+Renewables,Japan,2010,Stated Policies Scenario,0.77
+Renewables,Japan,2022,Stated Policies Scenario,1.218
+Renewables,Japan,2023,Stated Policies Scenario,1.378
+Renewables,Japan,2030,Stated Policies Scenario,2.017
+Renewables,Japan,2035,Stated Policies Scenario,2.538
+Renewables,Japan,2050,Stated Policies Scenario,3.459
+Renewables,Japan,2030,Announced Pledges Scenario,2.324
+Renewables,Japan,2035,Announced Pledges Scenario,3.263
+Renewables,Japan,2050,Announced Pledges Scenario,4.811
+Renewables,Southeast Asia,2010,Stated Policies Scenario,2.76
+Renewables,Southeast Asia,2022,Stated Policies Scenario,5.814
+Renewables,Southeast Asia,2023,Stated Policies Scenario,6.209
+Renewables,Southeast Asia,2030,Stated Policies Scenario,8.216
+Renewables,Southeast Asia,2035,Stated Policies Scenario,10.282
+Renewables,Southeast Asia,2050,Stated Policies Scenario,17.629
+Renewables,Southeast Asia,2030,Announced Pledges Scenario,10.413
+Renewables,Southeast Asia,2035,Announced Pledges Scenario,14.818
+Renewables,Southeast Asia,2050,Announced Pledges Scenario,29.526
+Total,World,2010,Stated Policies Scenario,536.333
+Total,World,2022,Stated Policies Scenario,628.998
+Total,World,2023,Stated Policies Scenario,642.146
+Total,World,2030,Stated Policies Scenario,676.466
+Total,World,2035,Stated Policies Scenario,681.624
+Total,World,2050,Stated Policies Scenario,721.944
+Total,World,2030,Announced Pledges Scenario,640.849
+Total,World,2035,Announced Pledges Scenario,623.955
+Total,World,2050,Announced Pledges Scenario,634.735
+Total,North America,2010,Stated Policies Scenario,112.579
+Total,North America,2022,Stated Policies Scenario,113.699
+Total,North America,2023,Stated Policies Scenario,112.336
+Total,North America,2030,Stated Policies Scenario,108.801
+Total,North America,2035,Stated Policies Scenario,103.608
+Total,North America,2050,Stated Policies Scenario,99.272
+Total,North America,2030,Announced Pledges Scenario,103.67
+Total,North America,2035,Announced Pledges Scenario,96.259
+Total,North America,2050,Announced Pledges Scenario,89.137
+Total,United States,2010,Stated Policies Scenario,94.061
+Total,United States,2022,Stated Policies Scenario,93.39
+Total,United States,2023,Stated Policies Scenario,91.879
+Total,United States,2030,Stated Policies Scenario,88.183
+Total,United States,2035,Stated Policies Scenario,83.013
+Total,United States,2050,Stated Policies Scenario,78.021
+Total,United States,2030,Announced Pledges Scenario,84.701
+Total,United States,2035,Announced Pledges Scenario,78.462
+Total,United States,2050,Announced Pledges Scenario,72.869
+Total,Central and South America,2010,Stated Policies Scenario,26.632
+Total,Central and South America,2022,Stated Policies Scenario,29.251
+Total,Central and South America,2023,Stated Policies Scenario,29.793
+Total,Central and South America,2030,Stated Policies Scenario,32.66
+Total,Central and South America,2035,Stated Policies Scenario,35.155
+Total,Central and South America,2050,Stated Policies Scenario,43.5
+Total,Central and South America,2030,Announced Pledges Scenario,32.336
+Total,Central and South America,2035,Announced Pledges Scenario,34.74
+Total,Central and South America,2050,Announced Pledges Scenario,39.992
+Total,Brazil,2010,Stated Policies Scenario,12.135
+Total,Brazil,2022,Stated Policies Scenario,13.892
+Total,Brazil,2023,Stated Policies Scenario,14.378
+Total,Brazil,2030,Stated Policies Scenario,16.138
+Total,Brazil,2035,Stated Policies Scenario,17.246
+Total,Brazil,2050,Stated Policies Scenario,21.25
+Total,Brazil,2030,Announced Pledges Scenario,16.227
+Total,Brazil,2035,Announced Pledges Scenario,17.797
+Total,Brazil,2050,Announced Pledges Scenario,20.421
+Total,Europe,2010,Stated Policies Scenario,88.973
+Total,Europe,2022,Stated Policies Scenario,76.996
+Total,Europe,2023,Stated Policies Scenario,74.35
+Total,Europe,2030,Stated Policies Scenario,73.024
+Total,Europe,2035,Stated Policies Scenario,70.225
+Total,Europe,2050,Stated Policies Scenario,65.47
+Total,Europe,2030,Announced Pledges Scenario,70.403
+Total,Europe,2035,Announced Pledges Scenario,65.072
+Total,Europe,2050,Announced Pledges Scenario,59.291
+Total,European Union,2010,Stated Policies Scenario,64.174
+Total,European Union,2022,Stated Policies Scenario,55.431
+Total,European Union,2023,Stated Policies Scenario,52.969
+Total,European Union,2030,Stated Policies Scenario,50.924
+Total,European Union,2035,Stated Policies Scenario,48.012
+Total,European Union,2050,Stated Policies Scenario,42.833
+Total,European Union,2030,Announced Pledges Scenario,49.21
+Total,European Union,2035,Announced Pledges Scenario,44.939
+Total,European Union,2050,Announced Pledges Scenario,40.161
+Total,Africa,2010,Stated Policies Scenario,25.407
+Total,Africa,2022,Stated Policies Scenario,33.525
+Total,Africa,2023,Stated Policies Scenario,33.938
+Total,Africa,2030,Stated Policies Scenario,36.926
+Total,Africa,2035,Stated Policies Scenario,39.781
+Total,Africa,2050,Stated Policies Scenario,51.665
+Total,Africa,2030,Announced Pledges Scenario,30.764
+Total,Africa,2035,Announced Pledges Scenario,32.921
+Total,Africa,2050,Announced Pledges Scenario,46.926
+Total,Middle East,2010,Stated Policies Scenario,26.145
+Total,Middle East,2022,Stated Policies Scenario,35.031
+Total,Middle East,2023,Stated Policies Scenario,35.62
+Total,Middle East,2030,Stated Policies Scenario,40.639
+Total,Middle East,2035,Stated Policies Scenario,44.283
+Total,Middle East,2050,Stated Policies Scenario,55.937
+Total,Middle East,2030,Announced Pledges Scenario,39.605
+Total,Middle East,2035,Announced Pledges Scenario,44.148
+Total,Middle East,2050,Announced Pledges Scenario,54.13
+Total,Eurasia,2010,Stated Policies Scenario,35.763
+Total,Eurasia,2022,Stated Policies Scenario,42.197
+Total,Eurasia,2023,Stated Policies Scenario,42.724
+Total,Eurasia,2030,Stated Policies Scenario,43.076
+Total,Eurasia,2035,Stated Policies Scenario,43.272
+Total,Eurasia,2050,Stated Policies Scenario,44.11
+Total,Eurasia,2030,Announced Pledges Scenario,40.505
+Total,Eurasia,2035,Announced Pledges Scenario,39.096
+Total,Eurasia,2050,Announced Pledges Scenario,37.531
+Total,Russia,2010,Stated Policies Scenario,29.091
+Total,Russia,2022,Stated Policies Scenario,33.938
+Total,Russia,2023,Stated Policies Scenario,34.382
+Total,Russia,2030,Stated Policies Scenario,33.987
+Total,Russia,2035,Stated Policies Scenario,33.664
+Total,Russia,2050,Stated Policies Scenario,32.683
+Total,Russia,2030,Announced Pledges Scenario,32.194
+Total,Russia,2035,Announced Pledges Scenario,30.81
+Total,Russia,2050,Announced Pledges Scenario,28.352
+Total,Asia Pacific,2010,Stated Policies Scenario,205.871
+Total,Asia Pacific,2022,Stated Policies Scenario,283.087
+Total,Asia Pacific,2023,Stated Policies Scenario,296.996
+Total,Asia Pacific,2030,Stated Policies Scenario,321.85
+Total,Asia Pacific,2035,Stated Policies Scenario,324.545
+Total,Asia Pacific,2050,Stated Policies Scenario,337.984
+Total,Asia Pacific,2030,Announced Pledges Scenario,306.875
+Total,Asia Pacific,2035,Announced Pledges Scenario,296.015
+Total,Asia Pacific,2050,Announced Pledges Scenario,293.83
+Total,China,2010,Stated Policies Scenario,107.321
+Total,China,2022,Stated Policies Scenario,160.133
+Total,China,2023,Stated Policies Scenario,170.412
+Total,China,2030,Stated Policies Scenario,178.012
+Total,China,2035,Stated Policies Scenario,171.414
+Total,China,2050,Stated Policies Scenario,161.979
+Total,China,2030,Announced Pledges Scenario,171.058
+Total,China,2035,Announced Pledges Scenario,157.848
+Total,China,2050,Announced Pledges Scenario,141.16
+Total,India,2010,Stated Policies Scenario,27.696
+Total,India,2022,Stated Policies Scenario,42.724
+Total,India,2023,Stated Policies Scenario,45.353
+Total,India,2030,Stated Policies Scenario,55.785
+Total,India,2035,Stated Policies Scenario,60.7
+Total,India,2050,Stated Policies Scenario,70.54
+Total,India,2030,Announced Pledges Scenario,50.586
+Total,India,2035,Announced Pledges Scenario,51.962
+Total,India,2050,Announced Pledges Scenario,61.906
+Total,Japan,2010,Stated Policies Scenario,20.921
+Total,Japan,2022,Stated Policies Scenario,16.432
+Total,Japan,2023,Stated Policies Scenario,16.424
+Total,Japan,2030,Stated Policies Scenario,15.032
+Total,Japan,2035,Stated Policies Scenario,13.995
+Total,Japan,2050,Stated Policies Scenario,12.316
+Total,Japan,2030,Announced Pledges Scenario,14.722
+Total,Japan,2035,Announced Pledges Scenario,13.415
+Total,Japan,2050,Announced Pledges Scenario,10.912
+Total,Southeast Asia,2010,Stated Policies Scenario,21.462
+Total,Southeast Asia,2022,Stated Policies Scenario,31.47
+Total,Southeast Asia,2023,Stated Policies Scenario,32.996
+Total,Southeast Asia,2030,Stated Policies Scenario,39.555
+Total,Southeast Asia,2035,Stated Policies Scenario,43.802
+Total,Southeast Asia,2050,Stated Policies Scenario,54.225
+Total,Southeast Asia,2030,Announced Pledges Scenario,38.872
+Total,Southeast Asia,2035,Announced Pledges Scenario,40.608
+Total,Southeast Asia,2050,Announced Pledges Scenario,45.163
